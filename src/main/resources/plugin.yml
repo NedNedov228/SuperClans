@@ -1,0 +1,21 @@
+name: SuperClans
+version: '${project.version}'
+main: com.xecore.superclans.SuperClans
+api-version: '1.21'
+authors: [NedNedov228]
+
+commands:
+  clans:
+    description: Lists all clans in server
+    aliases:
+      - clns
+  clnsh:
+  clnst:
+  clan:
+    description: Displays your current clan
+    aliases:
+      - cln
+
+
+
+
