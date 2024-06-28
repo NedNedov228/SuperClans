@@ -45,6 +45,6 @@ There is no releases yet, because you need to specify your database properties i
 ## Installation
 
 **Place the Plugin**:
-   - Place the downloaded jar file in the `plugins` folder of your Paper 1.21 server.
+   - Place the .jar file in the `plugins` folder of your Paper 1.21 server.
 
 
