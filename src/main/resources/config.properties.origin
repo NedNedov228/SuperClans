@@ -1,0 +1,6 @@
+# Database configuration
+
+database.driverclass=
+database.url=
+database.username=
+database.password=
