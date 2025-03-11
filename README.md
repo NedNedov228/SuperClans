@@ -19,7 +19,7 @@ This project is a Minecraft plugin for Paper 1.21 that introduces a simple clans
 - `/clan disband` - Deletes clan and kick all members.
 
 ## Build
-There is no releases yet, because you need to specify your database properties in files
+There are no releases yet, because you need to specify your database properties in files
 
 1. **Clone the Pproject**:
    - Download the latest version of the plugin jar file from the releases page.
